@@ -1,0 +1,6 @@
+# user = 'kevin'
+# passwd = 'Kevin123'
+# host = 'movie.cgmebsvbtfzd.us-east-2.rds.amazonaws.com'
+user = 'kevin'
+passwd = 'kevinsun'
+host = 'flatiron.cfojdamkg4df.us-east-2.rds.amazonaws.com'
